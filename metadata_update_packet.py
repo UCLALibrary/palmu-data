@@ -5,8 +5,7 @@ df = pd.read_csv("merritt-updates/palmu_metadata_delivery1-merrit-update.csv")
 
 path = "/Users/ngoziharrison/Documents/palmu-data/merritt-updates"
 
-txt_template = """
-erc: 
+txt_template = """erc: 
 what:{six}
 what:{seven}
 where: {one}
