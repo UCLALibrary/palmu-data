@@ -1,0 +1,9 @@
+
+erc: 
+what:"فلسطين: موحدة، ديمقراطية، غير طائفية"، ملصق من تصميم علي قزق، 1979
+what:"United, Democratic, and Non-Sectarian Palestine", a Poster by Ali Kazak, 1979
+where: 0001.01.0002
+where: ark:/13030/m51g7xp9
+where: The Ali Kazak Collection
+where: Ali Kazak Sub-collection 1: Palestine Liberation Organization Posters
+where: https://palarchive.org/index.php/Detail/objects/52/lang/en_US

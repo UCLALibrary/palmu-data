@@ -1,0 +1,9 @@
+
+erc: 
+what:"نحن الفلسطينيون"، ملصق صادر عن اتحاد الطلبة الأستراليين، 1970-1979
+what:"We Are the Palestinians", a Poster by the AUS, 1970-1979
+where: 0001.01.0001
+where: ark:/13030/m5578pfg
+where: The Ali Kazak Collection
+where: Ali Kazak Sub-collection 1: Palestine Liberation Organization Posters
+where: https://palarchive.org/index.php/Detail/objects/13/lang/en_US

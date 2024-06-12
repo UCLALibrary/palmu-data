@@ -1,0 +1,9 @@
+
+erc: 
+what:"موشيه ديَّان"، ملصق صادر عن لجنة مناهضة زيارة ديَّان، 1976
+what:"Moshe Dayan", a Poster by the Committee Against Dayan Tour, 1976
+where: 0001.01.0005
+where: ark:/13030/m5jb3hvb
+where: The Ali Kazak Collection
+where: Ali Kazak Sub-collection 1: Palestine Liberation Organization Posters
+where: https://palarchive.org/index.php/Detail/objects/81/lang/en_US
