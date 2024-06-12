@@ -1,0 +1,4 @@
+erc: 
+what:"العصارة" | "The Extraction" ; The Tawfiq Zayyad Collection
+where: ark:/13030/m5rv9skc
+where: https://palarchive.org/index.php/Detail/objects/115994/lang/en_US

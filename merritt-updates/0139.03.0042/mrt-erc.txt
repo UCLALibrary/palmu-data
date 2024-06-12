@@ -1,0 +1,4 @@
+erc: 
+what:العدد 42 من مجلة الغد الصادر في 9 أيّار 1947 | "Al-Ghad", Issue No. 42 ; The Sakher Khatib Collection
+where: ark:/13030/m5m40jhp
+where: https://palarchive.org/index.php/Detail/objects/184911/lang/en_US

@@ -1,0 +1,4 @@
+erc: 
+what:"مقالة بعنوان:"أبا خالد | "Abu Khalid", an Article ; The Fahd al-Qawasmi Collection
+where: ark:/13030/m5cw27t5
+where: https://palarchive.org/index.php/Detail/objects/189804/lang/en_US

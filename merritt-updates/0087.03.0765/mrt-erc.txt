@@ -1,0 +1,4 @@
+erc: 
+what:سند صرف | Payment Voucher ; The Arab Development Society Collection
+where: ark:/13030/m5mt193p
+where: https://palarchive.org/index.php/Detail/objects/205681/lang/en_US

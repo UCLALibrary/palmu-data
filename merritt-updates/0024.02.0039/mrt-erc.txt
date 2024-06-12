@@ -1,0 +1,4 @@
+erc: 
+what:قصيدة أبو كتيوشا | The poem of Abu Katyousha ; The Rajih al-Salfeety Collection
+where: ark:/13030/m5104fch
+where: https://palarchive.org/index.php/Detail/objects/25407/lang/en_US

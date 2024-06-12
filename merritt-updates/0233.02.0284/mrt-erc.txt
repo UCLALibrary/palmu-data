@@ -1,0 +1,4 @@
+erc: 
+what:"القواسمي يعود لمزاولة اعماله اليوم" | "As of Today, Qawasmi Attends to his Tasks" ; The Fahd al-Qawasmi Collection
+where: ark:/13030/m5kx364c
+where: https://palarchive.org/index.php/Detail/objects/189933/lang/en_US

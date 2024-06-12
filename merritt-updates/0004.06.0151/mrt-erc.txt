@@ -1,0 +1,4 @@
+erc: 
+what:استدعاء صرف مستحقات | Disbursement of Financial Dues ; The Omar al-Qasim Collection
+where: ark:/13030/m5kh800v
+where: https://palarchive.org/index.php/Detail/objects/17124/lang/en_US

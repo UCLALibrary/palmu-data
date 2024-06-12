@@ -1,0 +1,4 @@
+erc: 
+what:"صورة عائلية" | A Family Photo ; The Musa Allush Collection
+where: ark:/13030/m52s1g03
+where: https://palarchive.org/index.php/Detail/objects/163373/lang/en_US

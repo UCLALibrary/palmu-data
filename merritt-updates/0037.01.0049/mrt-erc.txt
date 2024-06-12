@@ -1,0 +1,4 @@
+erc: 
+what:تفويض | Authorization ; The Abdullah Afaneh Collection
+where: ark:/13030/m5190k18
+where: https://palarchive.org/index.php/Detail/objects/24863/lang/en_US

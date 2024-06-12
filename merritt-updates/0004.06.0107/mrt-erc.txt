@@ -1,0 +1,4 @@
+erc: 
+what:وصول المقبوضات | Receipt ; The Omar al-Qasim Collection
+where: ark:/13030/m5gz1p6q
+where: https://palarchive.org/index.php/Detail/objects/17080/lang/en_US

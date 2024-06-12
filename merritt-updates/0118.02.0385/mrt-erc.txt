@@ -1,0 +1,4 @@
+erc: 
+what:طلب إجازة | A Vacation Request ; The Tulkarm Municipality Collection
+where: ark:/13030/m53n9r28
+where: https://palarchive.org/index.php/Detail/objects/119328/lang/en_US

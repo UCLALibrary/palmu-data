@@ -1,0 +1,4 @@
+erc: 
+what:"عن الكلمات وأشياء أخرى" | "About Words, and Other Things ; The Tawfiq Zayyad Collection
+where: ark:/13030/m5m420kq
+where: https://palarchive.org/index.php/Detail/objects/116007/lang/en_US

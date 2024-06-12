@@ -1,0 +1,4 @@
+erc: 
+what:"صورة شخصية لرجل من بلدة بيرزيت"، 1920 - 1930 | A Portrait of a Man from Birzeit, 1920-30 ; The Musa Allush Collection
+where: ark:/13030/m5kx3596
+where: https://palarchive.org/index.php/Detail/objects/163057/lang/en_US

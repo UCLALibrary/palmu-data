@@ -1,0 +1,4 @@
+erc: 
+what:وثيقة بعنوان "أقوال وأمثال شعبية في الزيت والزيتون" | A document entitled "Traditional Proverbs about Oil and Olives" ; The Fadi Sanad Collection
+where: ark:/13030/m5gb9hmv
+where: https://palarchive.org/index.php/Detail/objects/44320/lang/en_US

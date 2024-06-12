@@ -1,0 +1,4 @@
+erc: 
+what:"اجتماع في الخليل" | "A Meeting in Hebron" ; The Fahd al-Qawasmi Collection
+where: ark:/13030/m54z2zxq
+where: https://palarchive.org/index.php/Detail/objects/189924/lang/en_US

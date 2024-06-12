@@ -1,0 +1,4 @@
+erc: 
+what:"مقالة بعنوان"قصيدة فتح في رثاء الشهيد فهد القواسمة | "Fateh's Eulogy for the Shaheed Fahed Qawasmi", an Article ; The Fahd al-Qawasmi Collection
+where: ark:/13030/m52k42x9
+where: https://palarchive.org/index.php/Detail/objects/189792/lang/en_US

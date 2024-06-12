@@ -1,0 +1,4 @@
+erc: 
+what:"زقاق من إحدى البلدات القديمة" | An Alley in an Old City ; The Musa Allush Collection
+where: ark:/13030/m5pp6vzn
+where: https://palarchive.org/index.php/Detail/objects/163286/lang/en_US

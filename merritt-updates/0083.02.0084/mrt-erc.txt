@@ -1,0 +1,4 @@
+erc: 
+what:نص بعنوان "صلاة" | A text entitled "Prayer" ; The Layla Tarazi Collection
+where: ark:/13030/m5xh7782
+where: https://palarchive.org/index.php/Detail/objects/86261/lang/en_US

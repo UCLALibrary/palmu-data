@@ -1,0 +1,4 @@
+erc: 
+what:سند قبض | Receipt Voucher ; The Arab Development Society Collection
+where: ark:/13030/m5w7434d
+where: https://palarchive.org/index.php/Detail/objects/205679/lang/en_US

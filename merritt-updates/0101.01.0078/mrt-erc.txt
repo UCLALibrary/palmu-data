@@ -1,0 +1,4 @@
+erc: 
+what:خارطة مدينة طولكرم | Map of Tulkarem ; The Amjad Ghannam Collection
+where: ark:/13030/m5wj0988
+where: https://palarchive.org/index.php/Detail/objects/91180/lang/en_US

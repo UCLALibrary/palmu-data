@@ -1,0 +1,4 @@
+erc: 
+what:"مؤتمر شعبى في نابلس" | "People's Conference in Nablus" ; The Fahd al-Qawasmi Collection
+where: ark:/13030/m5ps5m4n
+where: https://palarchive.org/index.php/Detail/objects/189940/lang/en_US

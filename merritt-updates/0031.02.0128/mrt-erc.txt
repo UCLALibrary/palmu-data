@@ -1,0 +1,4 @@
+erc: 
+what:تقويم بالأشهر العربية والميلادية | Calendar of Arabic and Gregorian months ; The Omar and Nael al-Barghouthi Collection
+where: ark:/13030/m58d77qz
+where: https://palarchive.org/index.php/Detail/objects/23131/lang/en_US

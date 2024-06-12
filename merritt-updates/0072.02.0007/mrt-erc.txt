@@ -1,0 +1,4 @@
+erc: 
+what:عدد من جريدة القدس | An al-Quds Newspaper Issue ; The Arab Institute - Abu Dis Collection
+where: ark:/13030/m52v9xf1
+where: https://palarchive.org/index.php/Detail/objects/116293/lang/en_US

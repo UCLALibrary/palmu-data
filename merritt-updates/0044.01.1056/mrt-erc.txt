@@ -1,0 +1,4 @@
+erc: 
+what:A card documenting a joke entitled "Popcorn Machine" | A card documenting a joke entitled "Popcorn Machine" ; The Sharif Kanaana Collection
+where: ark:/13030/m57x3rnm
+where: https://palarchive.org/index.php/Detail/objects/34076/lang/en_US

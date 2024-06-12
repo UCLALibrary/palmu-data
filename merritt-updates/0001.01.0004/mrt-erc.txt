@@ -1,8 +1,4 @@
 erc: 
-what:"سيناء"، ملصق صادر عن البعثة الدبلوماسية العامة الفلسطينية لأستراليا، 1987
-what:"Sinai", a Poster by the General Delegation of Palestine to Australia, 1987
-where: 0001.01.0004
+what:"سيناء"، ملصق صادر عن البعثة الدبلوماسية العامة الفلسطينية لأستراليا، 1987 | "Sinai", a Poster by the General Delegation of Palestine to Australia, 1987 ; The Ali Kazak Collection
 where: ark:/13030/m5sv5181
-where: The Ali Kazak Collection
-where: Ali Kazak Sub-collection 1: Palestine Liberation Organization Posters
 where: https://palarchive.org/index.php/Detail/objects/82/lang/en_US

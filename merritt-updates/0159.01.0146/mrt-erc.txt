@@ -1,0 +1,4 @@
+erc: 
+what:"صورة سيارة قديمة في القدس"، 1920 - 1930 | A Photograph of an Old Car in Jerusalem, 1920-30 ; The Musa Allush Collection
+where: ark:/13030/m5812rzm
+where: https://palarchive.org/index.php/Detail/objects/163196/lang/en_US

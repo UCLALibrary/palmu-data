@@ -1,0 +1,4 @@
+erc: 
+what:"مُحرمات" | "Taboos" ; The Tawfiq Zayyad Collection
+where: ark:/13030/m5192bcm
+where: https://palarchive.org/index.php/Detail/objects/115993/lang/en_US

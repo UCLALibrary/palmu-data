@@ -1,0 +1,4 @@
+erc: 
+what:سند قبض | Receipt ; The Arab Development Society Collection
+where: ark:/13030/m5wx50xr
+where: https://palarchive.org/index.php/Detail/objects/204969/lang/en_US

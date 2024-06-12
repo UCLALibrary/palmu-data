@@ -1,0 +1,4 @@
+erc: 
+what:"مقالة بعنوان:"استشهاد فارس شجاع | "The Shaheeddom of a Brave Knight", an Article ; The Fahd al-Qawasmi Collection
+where: ark:/13030/m5841h52
+where: https://palarchive.org/index.php/Detail/objects/189806/lang/en_US

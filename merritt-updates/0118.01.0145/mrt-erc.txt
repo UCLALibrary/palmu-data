@@ -1,0 +1,4 @@
+erc: 
+what:مخطط بناء | Architectural Plan ; The Tulkarm Municipality Collection
+where: ark:/13030/m5nh2c8b
+where: https://palarchive.org/index.php/Detail/objects/209167/lang/en_US

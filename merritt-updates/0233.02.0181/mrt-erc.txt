@@ -1,0 +1,4 @@
+erc: 
+what:"صرخة " | "A Scream", an Article ; The Fahd al-Qawasmi Collection
+where: ark:/13030/m5tv2g1f
+where: https://palarchive.org/index.php/Detail/objects/189830/lang/en_US

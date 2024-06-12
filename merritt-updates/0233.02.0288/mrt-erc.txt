@@ -1,0 +1,4 @@
+erc: 
+what:"القواسمي يطلب السماح باستيراد مولدات كهربائية" | "Qawasmi Asks for Permit to Import Electric Generators" ; The Fahd al-Qawasmi Collection
+where: ark:/13030/m5g52fch
+where: https://palarchive.org/index.php/Detail/objects/189937/lang/en_US
