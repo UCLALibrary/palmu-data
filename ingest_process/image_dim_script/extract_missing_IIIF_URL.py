@@ -27,8 +27,8 @@ for index, filename in enumerate(os.listdir(csvs_file_path)):
     # Check to see if there were any changes made to the data frame, if so, write df1 to the original csv
     if len(df) > len(df1):
         df1.to_csv(csvs_file_path + "/" + filename)
-    if index == 30:
-        break
+    #if index == 30:
+    #    break
 
 # Export missing rows to csv
 print("exporting to PalMu_missing.csv")
