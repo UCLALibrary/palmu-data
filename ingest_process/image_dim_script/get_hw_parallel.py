@@ -44,7 +44,7 @@ def get_image_dimensions(url, index):
 
 # Function to update DataFrame with image dimensions
 def update_dimensions(index, row):
-    if row["Object Type"] == "Work":
+    if row["Object Type"] == "Work" and (pd.isnull(row["media.height"]) == True or pd.isnull(row["media.width"]) == True):
         image_url_column = 'IIIF Access URL'
         image_url = row[image_url_column]
         width, height = get_image_dimensions(image_url, index)
