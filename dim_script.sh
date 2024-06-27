@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This is a script to automate fetching image dimensions for each row in CSVs in the need dims folder
-# USAGE: run the script by entereing sh dim-script.sh at the command prompt along with a command line argument specifiyng how many CSV's to fetch dimensions for
+# USAGE: run the script by entereing sh dim-script.sh at the command prompt along with the batch you are processing
 
 function loading_icon() {
     local load_interval="${1}"
@@ -26,17 +26,12 @@ function loading_icon() {
 }
 
 
-i=0
+
 echo "fetching dimensions for $1 csv files in ingest_process/need-dims/"
-for filename in ingest_process/need-dims/*.csv; do  
-    if [ $i -lt $1 ]
-    then
+for filename in ingest_process/need-dims/$1/*.csv; do  
         echo "getting dimensions for $filename"
         echo "$filename" | python3 ingest_process/image_dim_script/get_hw_parallel.py
         loading_icon 120 "Waiting 2min to fetch next csv"
-        i=$((i + 1))
-    else
-        break
-    fi
+    
        
 done
