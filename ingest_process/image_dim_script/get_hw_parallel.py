@@ -7,7 +7,14 @@ from tqdm import tqdm
 import os
 
 # Get CSV file to output errors
-errs = pd.DataFrame(columns=["csv file", "row number", "error message"])
+# Check to see if there is an existing errors csv otherwise create one
+
+if os.path.isfile("errors.csv"): 
+    errs = pd.read_csv("errors.csv")
+
+else:
+    errs = pd.DataFrame(columns=["csv file", "row number", "error message"])
+    
 # Get input CSV file path from user and strip extra whitespace
 csv_file_path = input("Enter the path to the input CSV file: ").strip()
 
@@ -37,7 +44,7 @@ def get_image_dimensions(url, index):
 
 # Function to update DataFrame with image dimensions
 def update_dimensions(index, row):
-    if row["Object Type"] == "Work":
+    if row["Object Type"] == "Work" and (pd.isnull(row["media.height"]) == True or pd.isnull(row["media.width"]) == True):
         image_url_column = 'IIIF Access URL'
         image_url = row[image_url_column]
         width, height = get_image_dimensions(image_url, index)
