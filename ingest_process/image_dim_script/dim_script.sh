@@ -35,3 +35,5 @@ for filename in ingest_process/need-dims/$1/*.csv; do
     
        
 done
+
+echo "Finished fetching dimensions for $1"
