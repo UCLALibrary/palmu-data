@@ -1,0 +1,5 @@
+csv file,row number,error message
+0102.csv,19,"Error getting dimensions for https://d7rm5xoig729r.cloudfront.net/collectiveaccess/images/5/9/9/28157_ca_object_representations_media_59972_original.jpg: Image size (387499225 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+0102.csv,18,"Error getting dimensions for https://d7rm5xoig729r.cloudfront.net/collectiveaccess/images/5/9/9/62719_ca_object_representations_media_59968_original.jpg: Image size (387499225 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+0102.csv,20,"Error getting dimensions for https://d7rm5xoig729r.cloudfront.net/collectiveaccess/images/5/9/9/50921_ca_object_representations_media_59973_original.jpg: Image size (387499225 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+0102.csv,17,"Error getting dimensions for https://d7rm5xoig729r.cloudfront.net/collectiveaccess/images/6/0/0/68369_ca_object_representations_media_60064_original.jpg: Image size (387499225 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
