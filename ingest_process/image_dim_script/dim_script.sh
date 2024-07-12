@@ -31,6 +31,8 @@ echo "fetching dimensions for $1 csv files in ingest_process/need-dims/"
 for filename in ingest_process/need-dims/$1/*.csv; do  
         echo "getting dimensions for $filename"
         echo "$filename" | python3 ingest_process/image_dim_script/get_hw_parallel.py
+        loading_icon 60 "Waiting 1min run again and fix any errors"
+        echo "$filename" | python3 ingest_process/image_dim_script/get_hw_parallel.py
         loading_icon 120 "Waiting 2min to fetch next csv"
     
        
