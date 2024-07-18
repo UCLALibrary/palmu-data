@@ -8,10 +8,8 @@ import os
 
 # Get CSV file to output errors
 # Check to see if there is an existing errors csv otherwise create one
-
 if os.path.isfile("errors.csv"): 
     errs = pd.read_csv("errors.csv")
-
 else:
     errs = pd.DataFrame(columns=["csv file", "row number", "error message"])
     
@@ -61,6 +59,10 @@ with ThreadPoolExecutor(max_workers=8) as executor:  # Adjust max_workers based 
 # Save the updated DataFrame to a new CSV file with original file name
 output_csv_file_path = f'{file_name}_dim.csv'
 df.to_csv(output_csv_file_path, index=False)
-errs.to_csv("errors.csv", index=False)
 
+# Check to see if errors were generated, if so export errors file, if not discard
+if len(errs) > 0:
+    errs.to_csv("errors.csv", index=False)
+
+# Print out a confirmation message
 print(f"Image dimensions added and saved to {output_csv_file_path}")
