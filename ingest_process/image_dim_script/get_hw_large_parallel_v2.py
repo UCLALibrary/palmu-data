@@ -123,3 +123,7 @@ for filename in sorted(os.listdir(f"ingest_process/need-dims/{batch}")):
             process_csv(df, filename)
         timer(120, "Waiting 2min to fetch next csv")
 
+
+
+print(f"Finished fetching dimensions for {batch} csv files in ingest_process/need-dims/")
+logger.info(f"Finished fetching dimensions for {batch} csv files in ingest_process/need-dims/")
